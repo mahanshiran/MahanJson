@@ -74,6 +74,33 @@
                 "ingredients": "abbas ghaderi"
             },
             {
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+                "name": "Mushroom Tagliatelle",
+                "photoCredit": "Eaters Collective",
+                "price": 12,
+                "restrictions": ["D", "G", "V"],
+                "description": "If you're the kind of fun guy (sorry not sorry) that likes salami-filled Italian food with a twist, this is the perfect dish for you. The twist? We lied about the meat.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+                "name": "Tower Burger",
+                "photoCredit": "Edward Guk",
+                "price": 12,
+                "restrictions": ["D", "G"],
+                "description": "It's a truth universally acknowledged that every restaurant is in want of a burger, and trust us: this thing is so tall you can't even get your mouth around it without dislocating your jaw.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
+                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+                "name": "Superfood Salad",
+                "photoCredit": "Mgg Vitchakorn",
+                "price": 9,
+                "restrictions": ["N", "V"],
+                "description": "Many people believe that kale, spinach, and other such things can detox their body, and if that's you we're happy to take your money from you with this salad.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
                 "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
                 "name": "Veggie Pizza",
                 "photoCredit": "Cel Lisboa",
@@ -98,15 +125,6 @@
               "ingredients": "abbas ghaderi"
           },
           {
-              "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
-              "name": "Macarons Galore",
-              "photoCredit": "Mana",
-              "price": 8,
-              "restrictions": ["N", "V"],
-              "description": "For times when one, two, or even three macarons aren't enough, we're proud to present macarons galore – four macarons, to fully satisfy your craving for these sweet almondy delights!",
-              "ingredients": "abbas ghaderi"
-          },
-          {
               "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
               "name": "All Out Donuts",
               "photoCredit": "Kobby Mendez",
@@ -125,7 +143,7 @@
               "ingredients": "abbas ghaderi"
           }
       ]
-    }
+    },
     {
       "id": 4,
       "name": "Drinks",
@@ -155,24 +173,6 @@
               "price": 3,
               "restrictions": ["V"],
               "description": "In the same way that brandy is distilled wine, this is distilled coffee. Yes, we literally boil coffee again and again to remove as much water as possible, leaving some black goopy stuff that is pretty much guaranteed to make your eyes pop.",
-              "ingredients": "abbas ghaderi"
-          },
-          {
-              "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
-              "name": "Mexican Mocha",
-              "photoCredit": "Nathan Dumlao",
-              "price": 7,
-              "restrictions": ["D", "V"],
-              "description": "What do you get if you mix spicy Mexican chocolate into coffee? I mean, the answer is pretty much in the name – we really ought to get a better marketing team.",
-              "ingredients": "abbas ghaderi"
-          },
-          {
-              "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
-              "name": "Chrysanthemum Tea",
-              "photoCredit": "Loverna Journey",
-              "price": 4,
-              "restrictions": ["V"],
-              "description": "This is tea made from chrysanthemum. No, we're not quite sure how that works either. Do we press the leaves? Is chrysanthemum even a plant? It sounds like some sort of wild animal. Maybe we milked it to make this drink.",
               "ingredients": "abbas ghaderi"
           },
           {
