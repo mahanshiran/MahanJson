@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "name": "Post 2",
+      "name": "Mains",
       "Items": [
          {
                 "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
@@ -41,7 +41,7 @@
     },
     {
       "id": 3,
-      "name": "Post 3",
+      "name": "Dessert",
       "Items": [
       {
                 "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
