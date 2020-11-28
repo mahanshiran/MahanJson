@@ -23,6 +23,33 @@
                 "ingredients": "abbas ghaderi"
             },
             {
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+                "name": "Power Muesli",
+                "photoCredit": "Hanny Naibaho",
+                "price": 5,
+                "restrictions": ["D", "N"],
+                "description": "Is normal muesli too boring? Of course it is. That's why we serve power muesli – it's like regular muesli, except we put the word \"power\" in front of it so we can charge more.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+                "name": "Fresh-baked Croissant",
+                "photoCredit": "Kavita Joshi Rai",
+                "price": 3,
+                "restrictions": ["D", "G"],
+                "description": "This is just a regular croissant that we buy in bulk from a frozen foods supermarket, but we needed some sort of adjective to justify our price. So, it was either \"fresh-baked\" or \"authentic Parisian\", and our legal team thinks the latter is probably going to land us in hot water.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
+                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+                "name": "Full English",
+                "photoCredit": "Melissa Walker Horn",
+                "price": 12,
+                "restrictions": ["G"],
+                "description": "If you like eating breakfast out of things that could easily be served any time of day, then we have the perfect thing for you. Comes with tomato ketchup or brown sauce depending on how northern you sound.",
+                "ingredients": "abbas ghaderi"
+            },
+            {
                 "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
                 "name": "Porridge Deluxe",
                 "photoCredit": "Monika Grabkowska",
@@ -44,42 +71,6 @@
                 "price": 15,
                 "restrictions": ["D", "G"],
                 "description": "What's better than a creamy artisinal[1] pasta that has been hand-made[2] by our chefs[3]? All that with bacon, of course! ([1] Shop bought; [2] Hand-purchased; [3] wait staff)",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
-                "name": "Mushroom Tagliatelle",
-                "photoCredit": "Eaters Collective",
-                "price": 12,
-                "restrictions": ["D", "G", "V"],
-                "description": "If you're the kind of fun guy (sorry not sorry) that likes salami-filled Italian food with a twist, this is the perfect dish for you. The twist? We lied about the meat.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "759527CB-1064-4082-A527-F04698F9D18F",
-                "name": "Tower Burger",
-                "photoCredit": "Edward Guk",
-                "price": 12,
-                "restrictions": ["D", "G"],
-                "description": "It's a truth universally acknowledged that every restaurant is in want of a burger, and trust us: this thing is so tall you can't even get your mouth around it without dislocating your jaw.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "DD20B3C1-438A-4657-BCFA-A0C6DA1AE7EE",
-                "name": "Corn on the cob",
-                "photoCredit": "Dragne Marius",
-                "price": 6,
-                "restrictions": ["V"],
-                "description": "Seriously, Bob? You want us to charge six bucks for some corn on the cob? Listen, I know we're a hip cafe, but anyone rich enough to afford this price probably doesn't want to eat corn on the cob. [NOTE FOR BOB: Can we at least put some gold sprinkles on to justify the cost?]",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
-                "name": "Fillet Steak",
-                "photoCredit": "Alex Munsell",
-                "price": 20,
-                "restrictions": [],
-                "description": "It's a steak. It's not aged, it's not rubbed in kosher salt, it's not \"hand-cut\" or some other gibberish – it's just a slab of cow on a plate. Might come with sweet potato fries if you ask nicely.",
                 "ingredients": "abbas ghaderi"
             },
             {
@@ -116,6 +107,15 @@
               "ingredients": "abbas ghaderi"
           },
           {
+              "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+              "name": "All Out Donuts",
+              "photoCredit": "Kobby Mendez",
+              "price": 5,
+              "restrictions": ["G", "V"],
+              "description": "Donuts! More donuts! And yet more donuts! Exactly how many you get depends on the day – we pretty much cram them all on to a plate then see how many we can balance as we walk them to your table.",
+              "ingredients": "abbas ghaderi"
+          },
+          {
               "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
               "name": "Super Sundae",
               "photoCredit": "Camila Melim",
@@ -146,6 +146,33 @@
               "price": 6,
               "restrictions": ["V"],
               "description": "Step 1: Blend some frozen strawberries. Step 3: Profit! If you're reading this it means you've figured out step 2 for yourself.",
+              "ingredients": "abbas ghaderi"
+          },
+          {
+              "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+              "name": "Powerhouse coffee",
+              "photoCredit": "Nathan Dumlao",
+              "price": 3,
+              "restrictions": ["V"],
+              "description": "In the same way that brandy is distilled wine, this is distilled coffee. Yes, we literally boil coffee again and again to remove as much water as possible, leaving some black goopy stuff that is pretty much guaranteed to make your eyes pop.",
+              "ingredients": "abbas ghaderi"
+          },
+          {
+              "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
+              "name": "Mexican Mocha",
+              "photoCredit": "Nathan Dumlao",
+              "price": 7,
+              "restrictions": ["D", "V"],
+              "description": "What do you get if you mix spicy Mexican chocolate into coffee? I mean, the answer is pretty much in the name – we really ought to get a better marketing team.",
+              "ingredients": "abbas ghaderi"
+          },
+          {
+              "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+              "name": "Chrysanthemum Tea",
+              "photoCredit": "Loverna Journey",
+              "price": 4,
+              "restrictions": ["V"],
+              "description": "This is tea made from chrysanthemum. No, we're not quite sure how that works either. Do we press the leaves? Is chrysanthemum even a plant? It sounds like some sort of wild animal. Maybe we milked it to make this drink.",
               "ingredients": "abbas ghaderi"
           },
           {
