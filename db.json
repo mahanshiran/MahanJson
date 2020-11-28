@@ -28,14 +28,30 @@
       "id": 2,
       "name": "Post 2",
       "Items": [
-      
+         {
+                "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+                "name": "Penne Carbonara",
+                "photoCredit": "Brooke Lark",
+                "price": 15,
+                "restrictions": ["D", "G"],
+                "description": "What's better than a creamy artisinal[1] pasta that has been hand-made[2] by our chefs[3]? All that with bacon, of course! ([1] Shop bought; [2] Hand-purchased; [3] wait staff)",
+                "ingredients": "abbas ghaderi"
+            }
       ]
     },
     {
       "id": 3,
       "name": "Post 3",
       "Items": [
-      
+      {
+                "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+                "name": "Strawberry Surprise",
+                "photoCredit": "Karly Gomez",
+                "price": 6,
+                "restrictions": ["D", "V"],
+                "description": "Bob, people keep asking us why this thing has D and V for its restrictions, and it's making other customers worry that we are some sort of D&V hotspot. [NOTE FOR BOB: Can we find another word for dairy intolerance?]",
+                "ingredients": "abbas ghaderi"
+            }
       ]
     }
   ],
