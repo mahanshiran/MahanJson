@@ -23,33 +23,6 @@
                 "ingredients": "abbas ghaderi"
             },
             {
-                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
-                "name": "Power Muesli",
-                "photoCredit": "Hanny Naibaho",
-                "price": 5,
-                "restrictions": ["D", "N"],
-                "description": "Is normal muesli too boring? Of course it is. That's why we serve power muesli – it's like regular muesli, except we put the word \"power\" in front of it so we can charge more.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
-                "name": "Fresh-baked Croissant",
-                "photoCredit": "Kavita Joshi Rai",
-                "price": 3,
-                "restrictions": ["D", "G"],
-                "description": "This is just a regular croissant that we buy in bulk from a frozen foods supermarket, but we needed some sort of adjective to justify our price. So, it was either \"fresh-baked\" or \"authentic Parisian\", and our legal team thinks the latter is probably going to land us in hot water.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
-                "name": "Full English",
-                "photoCredit": "Melissa Walker Horn",
-                "price": 12,
-                "restrictions": ["G"],
-                "description": "If you like eating breakfast out of things that could easily be served any time of day, then we have the perfect thing for you. Comes with tomato ketchup or brown sauce depending on how northern you sound.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
                 "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
                 "name": "Porridge Deluxe",
                 "photoCredit": "Monika Grabkowska",
@@ -98,33 +71,6 @@
                 "price": 12,
                 "restrictions": ["S"],
                 "description": "This dish errs more towards \"scorching\" than \"spicy\", so let us know ahead of time if you want it so we can put a few fire engines on standby.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
-                "name": "Paella Alicante",
-                "photoCredit": "Cel Lisboa ",
-                "price": 14,
-                "restrictions": ["G", "S"],
-                "description": "This is paella made Alicante-style. We don't quite know what that means, but we need to justify the Spanish junket somehow. ¡Olé!",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
-                "name": "Superfood Salad",
-                "photoCredit": "Mgg Vitchakorn",
-                "price": 9,
-                "restrictions": ["N", "V"],
-                "description": "Many people believe that kale, spinach, and other such things can detox their body, and if that's you we're happy to take your money from you with this salad.",
-                "ingredients": "abbas ghaderi"
-            },
-            {
-                "id": "22E8B9F0-94C1-43EC-9B19-34F22CA17B6B",
-                "name": "Pesto Farfalle",
-                "photoCredit": "Eaters Collective",
-                "price": 10,
-                "restrictions": ["G", "N", "V"],
-                "description": "Cheap, filling, and green enough to make you tell yourself that it's healthy, our pesto farfalle is made from 100% recycled bow ties.",
                 "ingredients": "abbas ghaderi"
             },
             {
@@ -254,15 +200,6 @@
               "price": 7,
               "restrictions": ["D", "V"],
               "description": "What do you get if you mix spicy Mexican chocolate into coffee? I mean, the answer is pretty much in the name – we really ought to get a better marketing team.",
-              "ingredients": "abbas ghaderi"
-          },
-          {
-              "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
-              "name": "Chrysanthemum Tea",
-              "photoCredit": "Loverna Journey",
-              "price": 4,
-              "restrictions": ["V"],
-              "description": "This is tea made from chrysanthemum. No, we're not quite sure how that works either. Do we press the leaves? Is chrysanthemum even a plant? It sounds like some sort of wild animal. Maybe we milked it to make this drink.",
               "ingredients": "abbas ghaderi"
           },
           {
